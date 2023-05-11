@@ -1,4 +1,4 @@
-package packageForFirstHelloWorld;
+package bacisc.packageForFirstHelloWorld;
 
 public class HelloWorld {
     public static void main(String[] args) {
